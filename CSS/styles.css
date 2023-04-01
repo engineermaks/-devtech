@@ -1,0 +1,49 @@
+#first-page{ 
+    background-color: #103b74;
+    color: #fff;
+    background-image:url(images/dev.jpg);
+    
+}
+
+body {
+    
+    text-align: center;
+    line-height: 1.5;
+}
+h2 {  font-family: 'Montserrat, sans-serif';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;}
+#img1 { 
+    width: 40%;
+    border-radius: 5%;
+}
+#list {
+    list-style-type: none;
+}
+.cont{
+ margin-left: 30rem;   
+}
+#fourth-page{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: rgb(21, 5, 83);
+    color: #fff;
+    line-height: 1.5;
+}
+.par{
+        width: 50%;
+        text-align: center;
+        display: inline-block;
+}
+.quo{
+    margin-top: 20%;
+}
+#second-page{
+    background-color: #fff;
+}
+#third-page{
+    background-color: #fff;
+}
+.background-image{
+background-image: url(images\BLUE1.jpeg);
+width: 200px;
+height: 200px;
+}
